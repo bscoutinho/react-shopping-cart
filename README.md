@@ -1,7 +1,7 @@
 ### React Example
 
-React
-Hooks
-Typescript
-Styled Components
-React-Query
+- React
+- Hooks
+- Typescript
+- Styled Components
+- React-Query
